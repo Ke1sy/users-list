@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Thomas D.",
+    "email": "th@gmail.com",
+    "phone": "+43152362",
+    "website": "www.user.com"
+  },
+  {
+    "id": 2,
+    "name": "Michael S.",
+    "email": "ms@gmail.com",
+    "phone": "+21342221",
+    "website": "www.user.com"
+  }, {
+    "id": 3,
+    "name": "Elizabeth N.",
+    "email": "en@gmail.com",
+    "phone": "+19641238",
+    "website": "www.user.com"
+  }, {
+    "id": 4,
+    "name": "Ashley H.",
+    "email": "ah@gmail.com",
+    "phone": "+18610258",
+    "website": "www.user.com"
+  }
+]
